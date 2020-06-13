@@ -1,4 +1,6 @@
-# todolist
+# Simple vue.js todo app
+
+![Alt Text](https://github.com/m4qo5/notes-todo-vue.js/blob/master/notes.gif)
 
 ## Project setup
 ```
